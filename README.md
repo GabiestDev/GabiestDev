@@ -48,7 +48,7 @@ I work with a diverse set of technologies, focusing on C#/.NET ecosystems, moder
 
 - 🐺 **The Wolf:** I have a lifelong affinity for wolves; I admire their loyalty, instincts, and strength in a pack or lonely.
 - 🎲 **RPG:** I'm always playing RPG, i think that RPG help to build interest in reading, mathematics and also increase team working and soft skills!
-- 🎮 **Games** I love to play videogames since i was 3 years old, more than 20 years of videogame made who i'm and what i love.
+- 🎮 **Games:** I love to play videogames since i was 3 years old, more than 20 years of videogame made who i'm and what i love.
 
 ---
 
