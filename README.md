@@ -53,12 +53,12 @@ I work with a diverse set of technologies, focusing on C#/.NET ecosystems, moder
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabiestDev&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiestDev&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/gabriel-neto-do-nascimento/?locale=en_US]">
+  <a href="https://www.linkedin.com/in/gabriel-neto-do-nascimento/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
