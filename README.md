@@ -38,7 +38,6 @@ I work with a diverse set of technologies, focusing on C#/.NET ecosystems, moder
 
 ### 🔭 Current Focus & Projects
 
-- **CRM Web App:** Developing a full-stack CRM solution using **Blazor** and **.NET Aspire** to master cloud-ready distributed applications.
 - **Freelance:** Delivering custom full-stack solutions.
 - **Career:** My journey includes working as a **PHP Developer** and transitioning into **.NET Development**, giving me a versatile perspective on software architecture.
 
